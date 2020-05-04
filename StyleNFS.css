@@ -1,0 +1,86 @@
+	h4:before {
+	content: ' \00BB';
+	}
+	#geral {
+	background-color: transparent;
+	}
+
+	#topo {
+	background-color: grey;
+	padding: 1px;
+	text-align: center;
+	}
+	
+	#lateral {
+	background-color: darkgrey;
+	height: 2105px;
+	width: 25%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	float: left;
+	text-align: center;
+	}
+
+	#conteudo {
+	background-color: grey;
+	height: 100%;
+	width: 70%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 25px;
+	padding-right: 38px;
+	text-align: left;
+	float: left;
+	}
+	
+	#rodape {
+	background-color: darkgrey;
+	height: 50px;
+	width: 100%;
+	float: left;
+	text-align: left;
+	}
+	#lat1 {
+	background-color: darkgrey;
+	height: 35px;
+	width: 200px;
+	padding-top: 15px;
+	margin-left: 65px;
+	margin-bottom: 1px;
+	border: 1px solid black;
+	text-align: center;
+	}
+	#lat2 {
+	background-color: darkgrey;
+	height: 35px;
+	width: 200px;
+	padding-top: 15px;
+	margin-left: 65px;
+	margin-bottom: 1px;
+	border: 1px solid black;
+	text-align: center;
+	}
+	#lat3 {
+	background-color: darkgrey;
+	height: 35px;
+	width: 200px;
+	padding-top: 15px;
+	margin-left: 65px;
+	margin-bottom: 1px;
+	border: 1px solid black;
+	text-align: center;
+	}
+	#img1 {
+	heigth: 50px;
+	width: 50px;
+	}
+	#img2 {
+	heigth: 50px;
+	width: 50px;
+	margin-left: 100px;
+	}
+	#im {
+	heigth: 700px;
+	width: 700px;
+	}
